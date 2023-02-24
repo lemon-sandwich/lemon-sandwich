@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lemon-sandwich
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning app development
+- 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on a business model project
 - 📫 How to reach me: waseyu7119@gmail.com
 
